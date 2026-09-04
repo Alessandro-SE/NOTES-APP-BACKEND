@@ -10,7 +10,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://fabulous-tapioca-363cb2.netlify.app/",
+      "https://fabulous-tapioca-363cb2.netlify.app",
     ],
   }),
 );
