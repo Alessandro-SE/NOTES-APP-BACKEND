@@ -9,8 +9,8 @@ const app = express();
 app.use(
   cors({
     origin: [
-      "http://localhost:10000",
-      "https://fabulous-tapioca-363cb2.netlify.app",
+      "http://localhost:5173",
+      "https://6a9d018990a738ed4efb0bcf--fabulous-tapioca-363cb2.netlify.app",
     ],
   }),
 );
